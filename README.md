@@ -1,4 +1,7 @@
 # Crowdfunding_ETL
+Group 6
+Joel Fisher, Selena Passeno
+-------------------------------------------
 
 All project files are found in the folder complete_files
 
