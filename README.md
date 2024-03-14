@@ -3,8 +3,10 @@ Group 6
 Joel Fisher, Selena Passeno
 -------------------------------------------
 
-All project files are found in the folder complete_files
+Jupyter Notebook used is on main page of repository
 
-You will see our ERD within the first page of this folder as well as our notebook for cleaning the data
+The .xlsx files used in the notebook and the .csv outputs of the dataframes created are in the Resources folder
 
-Inside the resources folder you will find our .sql schema as well as our .csv files we created from the notebook, all have been loaded into postgres and are working as expected
+The ERD is on the main page of repository
+
+Inside the schemas_and_output folder you will find our schema for creating the database, our schema for testing our database and the outputs of those tests in the form of .csv files.
